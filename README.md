@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=HoragonNetwork&icon=6&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Us:
 <br>Ciao a tutti gli appassionati di Minecraft!<br><br>Siamo entusiasti di presentarvi Horagon Network, il server italiano di Minecraft all'avanguardia! Il nostro obiettivo è quello di creare un'esperienza di gioco ottimizzata, innovativa e divertente per tutti i nostri giocatori.<br>Il nostro network è pieno zeppo di modalità interessanti che si adattano a ogni stile di gioco. Che tu sia un costruttore incallito, un avventuriero o un abile stratega, troverai sicuramente una modalità che ti appassionerà e ti farà sentire a casa.<br>Ci teniamo particolarmente a creare una community solida e rispettosa, dove i giocatori possano interagire in un ambiente privo di tossicità. La gentilezza, il rispetto e l'aiuto reciproco sono i pilastri su cui Horagon Network si fonda.<br>Il nostro team di sviluppatori e moderatori è sempre al lavoro per garantire un'esperienza di gioco fluida e priva di bug. Vogliamo offrirvi una piattaforma affidabile su cui potrete divertirvi senza preoccupazioni.<br>Ma non finisce qui! Siamo costantemente alla ricerca di nuove idee e suggerimenti dai nostri giocatori. Ci piace coinvolgervi nella crescita del server, perché voi siete la nostra ispirazione.<br>Quindi, unitevi a noi su Horagon Network e immergetevi in un mondo di avventure, creatività e amicizia. Insieme costruiremo una community straordinaria, dove ogni giocatore si sentirà parte di qualcosa di speciale.<br>Vi aspettiamo nel nostro server! Pronti per nuove sfide e tante risate?<br>Ci vediamo in gioco!<br><br>~ Il team di Horagon Network
 
@@ -11,7 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=HoragonNetwork&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HoragonNetwork&theme=nord&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=HoragonNetwork&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
