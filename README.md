@@ -2,8 +2,6 @@
 
 <h3 align="center">📦 Siamo un Server Minecraft italiano</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horagonnetwork" alt="horagonnetwork" /></a> </p>
-
 - 🔭 Stiamo attualmente sviluppando [Horagon MC](https://discord.gg/horagon)
 
 - 🤝 Stiamo sviluppando **Java Plugins**
