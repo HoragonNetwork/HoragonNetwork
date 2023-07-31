@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">📦 Siamo un Server Minecraft italiano</h3>
+<h3>📦 Siamo un Server Minecraft italiano</h3>
 
 ---
 
