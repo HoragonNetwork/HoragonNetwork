@@ -1,8 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=HoragonNetwork&icon=6&color=0)](https://visitcount.itsvg.in)
 
-# 💫 About Us:
+---
+
+# About Horagon Netwotk:
+
 <br>Ciao a tutti gli appassionati di Minecraft!<br><br>Siamo entusiasti di presentarvi Horagon Network, il server italiano di Minecraft all'avanguardia! Il nostro obiettivo è quello di creare un'esperienza di gioco ottimizzata, innovativa e divertente per tutti i nostri giocatori.<br>Il nostro network è pieno zeppo di modalità interessanti che si adattano a ogni stile di gioco. Che tu sia un costruttore incallito, un avventuriero o un abile stratega, troverai sicuramente una modalità che ti appassionerà e ti farà sentire a casa.<br>Ci teniamo particolarmente a creare una community solida e rispettosa, dove i giocatori possano interagire in un ambiente privo di tossicità. La gentilezza, il rispetto e l'aiuto reciproco sono i pilastri su cui Horagon Network si fonda.<br>Il nostro team di sviluppatori e moderatori è sempre al lavoro per garantire un'esperienza di gioco fluida e priva di bug. Vogliamo offrirvi una piattaforma affidabile su cui potrete divertirvi senza preoccupazioni.<br>Ma non finisce qui! Siamo costantemente alla ricerca di nuove idee e suggerimenti dai nostri giocatori. Ci piace coinvolgervi nella crescita del server, perché voi siete la nostra ispirazione.<br>Quindi, unitevi a noi su Horagon Network e immergetevi in un mondo di avventure, creatività e amicizia. Insieme costruiremo una community straordinaria, dove ogni giocatore si sentirà parte di qualcosa di speciale.<br>Vi aspettiamo nel nostro server! Pronti per nuove sfide e tante risate?<br>Ci vediamo in gioco!<br><br>~ Il team di Horagon Network
 
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.horagon.net) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/horagon.network) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@horagon.network) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/horagonnetwork) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@horagon.network) 
