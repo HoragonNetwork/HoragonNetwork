@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=HoragonNetwork&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">📦 Siamo un Server Minecraft italiano</h3>
+<h3>📦 Siamo un Server Minecraft italiano</h3>
 
 - 🔭 Stiamo attualmente sviluppando [Horagon MC](https://discord.gg/horagon)
 
